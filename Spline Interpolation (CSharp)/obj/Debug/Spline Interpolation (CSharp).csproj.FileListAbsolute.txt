@@ -1,0 +1,20 @@
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\bin\Debug\Spline Interpolation (CSharp).exe.config
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\bin\Debug\Spline Interpolation (CSharp).exe
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\bin\Debug\Spline Interpolation (CSharp).pdb
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).csprojAssemblyReference.cache
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline_Interpolation__CSharp_.InterpolationForm.resources
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline_Interpolation__CSharp_.Properties.Resources.resources
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).csproj.GenerateResource.cache
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).csproj.CoreCompileInputs.cache
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).exe
+G:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).pdb
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\bin\Debug\Spline Interpolation (CSharp).exe.config
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\bin\Debug\Spline Interpolation (CSharp).exe
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\bin\Debug\Spline Interpolation (CSharp).pdb
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).csprojAssemblyReference.cache
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline_Interpolation__CSharp_.InterpolationForm.resources
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline_Interpolation__CSharp_.Properties.Resources.resources
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).csproj.GenerateResource.cache
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).csproj.CoreCompileInputs.cache
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).exe
+F:\Cyber\Proyectos del Visual Studio y otros\Spline Interpolation (CSharp)\Spline Interpolation (CSharp)\obj\Debug\Spline Interpolation (CSharp).pdb
